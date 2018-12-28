@@ -7,3 +7,9 @@ In order to do this you need to extract the timestamps from the log entries and 
 Good luck and have fun!
 
 Ref: https://codechalleng.es/bites/7
+
+----------
+
+## Learn Today
+- List comprehension - https://blog.teamtreehouse.com/python-single-line-loops
+- `min()` and `max()` in array
