@@ -2,7 +2,7 @@ import time
 from datetime import datetime, timedelta
 
 
-POMODORO_DURATION_MIN = 3
+POMODORO_DURATION_MIN = 50
 
 
 def main():
